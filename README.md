@@ -1,7 +1,7 @@
 # Rota Segura - Sistema de Locação de Veículos
 
 **Aluno:** Manuella Vieira Acarine
-**Matrícula:** Segundo termo
+**Matrícula:** DSM
 
 Aplicação de console em Java para gerenciar a locação de veículos: cadastro de veículos e clientes, abertura de locações, devolução, cálculo de valores e emissão de comprovantes.
 
